@@ -17,3 +17,8 @@ This is a test
     <td class="tg-us36">3</td>
   </tr>
 </table>
+
+| 1 | 2 | 2 |
+|---|---|---|
+| 1 | 2 | 3 |
+| 4 | 2 | 3 |
