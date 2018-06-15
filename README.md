@@ -2,8 +2,13 @@
 Implement AES on CPU & GPU
 
 # 2. Usage
+```
 gcc cpu.c -o cpu
+```
+
+```
 nvcc gpu.cu -o gpu
+```
 
 # 3. Experimental Results
 <table class="tg">
