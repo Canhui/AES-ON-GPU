@@ -1,8 +1,10 @@
 # 0. Environment Specification
+```
 OS: Ubuntu 16.04 LTS, 64-bit
 Memory: 11.5 GiB
 CPU: Intel Core i5-7200U @ 2.50GHz × 4
 GPU: GeForce 940MX/PCIe/SSE2
+```
 
 # 1. AES-ON-GPU
 Implement AES on CPU & GPU
